@@ -13,7 +13,7 @@ Files issues to let us know what you'd like to learn. See [Contributing](https:/
 
 ## Getting Started Guides
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
-- [Contribute to Node.js but not sure how to get to the working group you want to help?]()
+- [Contribute to Node.js(but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
 
 
 ### Help
