@@ -9,7 +9,7 @@ New to JavaScript?
 New to Node.js but coming from [X] language?     
 New to contributing to Node.js? 
 
-Files issues to let us know what you'd like to learn. See [Contributing](https://nodejs.org/static/images/logo-hexagon.png) below to help others through creating help documents.  
+Files issues to let us know what you'd like to learn. See [Contributing](https://github.com/nodejs/getting-started#contributing) below to help others through creating help documents.  
 
 ## Getting Started Guides
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
