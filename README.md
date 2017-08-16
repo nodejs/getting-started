@@ -3,17 +3,17 @@
 
  <img src="https://nodejs.org/static/images/logo-hexagon.png"
  alt="Node.js green hexagon" title="Node.js green hexagon" align="right" width="20%" height="20%"/>
- 
-New to programming?  
-New to JavaScript?  
-New to Node.js but coming from [X] language?     
-New to contributing to Node.js? 
 
-Files issues to let us know what you'd like to learn. See [Contributing](https://github.com/nodejs/getting-started#contributing) below to help others through creating help documents.  
+New to programming?<br>
+New to JavaScript?<br>
+New to Node.js but coming from [X] language?<br>
+New to contributing to Node.js?
+
+Files issues to let us know what you'd like to learn. See [Contributing](#contributing) below to help others through creating help documents.
 
 ## Getting Started Guides
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
-- [Contribute to Node.js(but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
+- [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
 
 
 ### Help
@@ -22,7 +22,7 @@ If you're looking for help while writing Node.js, ask questions in the Node.js [
 
 ### Contributing
 *Want to write a document?*
-  
+
 Please contribute! Check out our existing documents in this repository to improve existing resources, and look at [issues](https://github.com/nodejs/getting-started/issues) to discover resources people would love to learn from but don't yet exist. To get started, you have to [fork](https://github.com/nodejs/getting-started/fork) this repo to your own GitHub account first.
 
 *Please try to write documentation that prioritizes the LTS version.* Keeping work updated is ideal but understandably tough.
