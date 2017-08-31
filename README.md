@@ -9,7 +9,7 @@ New to JavaScript?<br>
 New to Node.js but coming from [X] language?<br>
 New to contributing to Node.js?
 
-Files issues to let us know what you'd like to learn. See [Contributing](#contributing) below to help others through creating help documents.
+File issues to let us know what you'd like to learn. See [Contributing](#contributing) below to help others through creating help documents.
 
 ## Getting Started Guides
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
@@ -17,7 +17,7 @@ Files issues to let us know what you'd like to learn. See [Contributing](#contri
 
 
 ### Help
-If you're looking for help while writing Node.js, ask questions in the Node.js [Help](https://github.com/nodejs/help#-help) repository. No question too small!
+If you're looking for help while writing Node.js, ask questions in the Node.js [Help](https://github.com/nodejs/help#-help) repository. No question is too small!
 
 
 ### Contributing
