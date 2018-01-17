@@ -20,11 +20,11 @@ File issues to let us know what you'd like to learn. See [Contributing](#contrib
  
  When looking for help, search for your question in these venues:
  
- * [Node.js Website][https://nodejs.org]
- * [Node.js Help][https://github.com/nodejs/help]
+ * [Node.js Website](https://nodejs.org)
+ * [Node.js Help](https://github.com/nodejs/help)
  * [Open or closed issues in the related Node.js GitHub organization repository](https://github.com/nodejs)
- * [Questions tagged 'node.js' on StackOverflow][https://stackoverflow.com/questions/tagged/node.js]
- * [Node.js Slack Community](http://node-js.slack.com): Visit [nodeslackers.io](http://www.nodeslackers.com/) to register 
+ * [Questions tagged 'node.js' on StackOverflow](https://stackoverflow.com/questions/tagged/node.js)
+ * [Node.js Slack Community](http://node-js.slack.com): Visit [nodeslackers.com](http://www.nodeslackers.com/) to register 
 
 ### Contributing
 *Want to write a document?*
