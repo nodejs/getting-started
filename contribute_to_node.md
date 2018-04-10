@@ -13,13 +13,11 @@ and we'll label your request as `intro requested`. A collaborator will facilitat
   The Streams Working Group is dedicated to the support and improvement of the Streams API as used in Node.js and the npm ecosystem.
 - [Build WG](https://github.com/nodejs/build#nodejs-build-working-group)<br>
   The Node.js Build Working Group maintains and controls infrastructure used for continuous integration (CI), releases, benchmarks, web hosting (of nodejs.org and other Node.js web properties) and more.
-- [Diagnostics WG](https://github.com/nodejs/diagnostics#diagnostics-working-group)<br>
-  The goal of this WG is to ensure Node provides a set of comprehensive, documented, extensible diagnostic protocols, formats, and APIs to enable tool vendors to provide reliable diagnostic tools for Node.
 - [i18n](https://github.com/nodejs/TSC/blob/master/WORKING_GROUPS.md#i18n)<br>
   The i18n Working Groups handle more than just translations. Each working group is an endpoint for community members to collaborate with each other in their language of choice.
 - [Docker WG](https://github.com/nodejs/docker-node#nodejs)<br>
   The Docker Working Group's purpose is to build, maintain, and improve official Docker images for the Node.js project.
-- [Adddon API WG](https://github.com/nodejs/nan#native-abstractions-for-nodejs)<br>
+- [Addon API WG](https://github.com/nodejs/nan#native-abstractions-for-nodejs)<br>
   The Addon API Working Group is responsible for maintaining the NAN project and corresponding nan package in npm. The NAN project makes available an abstraction layer for native add-on authors for Node.js, assisting in the writing of code that is compatible with many actively used versions of Node.js, V8 and libuv.
 - [Docs WG](https://github.com/nodejs/docs/blob/master/CONTRIBUTING.md#contributing-to-the-docs)<br>
   This group serves as a central place for Node.js documentation coordination, but not documentation itself. They will help get you there.
