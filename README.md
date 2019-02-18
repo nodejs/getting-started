@@ -16,7 +16,7 @@ File issues to let us know what you'd like to learn. See [Contributing](#contrib
 - [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
 
  ## Help
- If you're looking for help while writing Node.js, ask questions in the Node.js [Help](https://github.com/nodejs/help#-help) repository. No question is too small!
+ If you're looking for help while writing Node.js, ask questions in the Node.js [Help](https://github.com/nodejs/help#create-a-new-issue) repository. No question is too small!
  
  When looking for help, search for your question in these venues:
  
