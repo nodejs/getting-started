@@ -22,7 +22,7 @@ These are free, high-quality resources that anyone should be able to pick up to 
 
 ### Node.js: Node.js and {{ something else }}
 
-At this point, very few people use _just_ Node.js. As such, it's important to also learn how Node.js works with other tools in our ecosystem. These modules, 
+At this point, very few people use _just_ Node.js. As such, it's important to also learn how Node.js works with other tools in our ecosystem. These resources aim to help you get up and running with Node.js and other technologies.
 
 - [Full Stack Open](https://fullstackopen.com)
   - Teaches: Node.js, React, Redux, MongoDB, and GraphQL
