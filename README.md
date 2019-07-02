@@ -30,6 +30,8 @@ At this point, very few people use _just_ Node.js. As such, it's important to al
 
 ### Node.js: Contributing
 
+If you're looking to contribute directly to Node.js, these guides will help move you in the right direction.
+
 - [Contribute to Node.js Core](http://nodetodo.org/getting-started/)
 - [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
 - Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/master/README.md) on this file!
