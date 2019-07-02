@@ -65,5 +65,7 @@ If you want to submit a new feature or a bugfix, the best way is to create the c
 
 ### Getting Started Collaborators
 
+The Getting Started repository is a joint responsibility of the Node.js TSC and Node.js Community Committee, as defined in [nodejs/admin](https://github.com/nodejs/admin#administration-for-tsc--community-committee-collaborative-efforts).
+
 - Tracy Hinds ([hackygolucky](https://github.com/hackygolucky))
 - Tierney Cyren ([bnb](https://github.com/bnb))
