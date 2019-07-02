@@ -7,7 +7,7 @@
 
 Whether you're new to programming, new to JavaScript, moving to Node.js from another language, or interested in contributing to Node.js, the aim of this repository is to get you on your feet.
 
-## Getting Started Guides
+## Guides
 
 ### Node.js: General
 
