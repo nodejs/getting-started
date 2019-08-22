@@ -45,7 +45,7 @@ Here's a set of repositories within the project that have multiple good first is
 - [nodejs/node](https://github.com/nodejs/node/labels/good%20first%20issue): the core project. There are many good first issues here. The easiest ones often get snatched up quickly, but we try our best to ensure there are always some.
 - [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev/labels/good%20first%20issue): our effort to build a new website based off of React using Gatsby.js.
 - [nodejs/citgm](https://github.com/nodejs/citgm/labels/good%20first%20issue): Canary in the Gold Mine, or CITGM, is a tool Node.js uses to test changes to see if they'll impact the most used modules in the ecosystem. It's a highly impactful project and one that's a great place to contribute to.
-- [node/community-committee](https://github.com/nodejs/community-committee/labels/good%20first%20issue): The Community Committee is a top-level committee in Node.js that foucses on outward-facing projects. Various aspects of the committee and its' initiatives are incredibly beginner-friendly.
+- [node/community-committee](https://github.com/nodejs/community-committee/labels/good%20first%20issue): The Community Committee is a top-level committee in Node.js that foucses on outward-facing projects. Various aspects of the committee and its initiatives are incredibly beginner-friendly.
 
 ## Node.js: Finding Help
 
