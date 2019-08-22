@@ -36,6 +36,17 @@ If you're looking to contribute directly to Node.js, these guides will help move
 - [Contribute to Node.js (but not sure how to get to the working group you want to help?)](https://github.com/nodejs/getting-started/blob/master/contribute_to_node.md)
 - Have an additional resource? [Send a Pull Request](https://github.com/nodejs/getting-started/edit/master/README.md) on this file!
 
+#### Good First Issues in the Node.js Organization
+
+All repositories in the Node.js GitHub organization have the "good first issue" label as a part of the repository. Some are more active than others, and have more opportunities for tackling good first issues and getting started with the project. 
+
+Here's a set of repositories within the project that have multiple good first issues open:
+
+- [nodejs/node](https://github.com/nodejs/node/labels/good%20first%20issue): the core project. There are many good first issues here. The easiest ones often get snatched up quickly, but we try our best to ensure there are always some.
+- [nodejs/nodejs.dev](https://github.com/nodejs/nodejs.dev/labels/good%20first%20issue): our effort to build a new website based off of React using Gatsby.js.
+- [nodejs/citgm](https://github.com/nodejs/citgm/labels/good%20first%20issue): Canary in the Gold Mine, or CITGM, is a tool Node.js uses to test changes to see if they'll impact the most used modules in the ecosystem. It's a highly impactful project and one that's a great place to contribute to.
+- [node/community-committee](https://github.com/nodejs/community-committee/labels/good%20first%20issue): The Community Committee is a top-level committee in Node.js that foucses on outward-facing projects. Various aspects of the committee and its initiatives are incredibly beginner-friendly.
+
 ## Node.js: Finding Help
 
 If you're looking for help while writing Node.js, ask questions in the [nodejs/help](https://github.com/nodejs/help#create-a-new-issue) repository. No question is too small!
